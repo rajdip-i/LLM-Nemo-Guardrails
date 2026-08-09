@@ -1,6 +1,6 @@
 # Local LLM Guardrails Lab
 
-A hands-on experimentation project for building, testing, and refining
+A experimentation project for building, testing, and refining
 conversational guardrails with [NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) and [Ollama](https://ollama.com/)
 
 - topical boundaries for a task-focused assistant;
