@@ -2,18 +2,12 @@
 
 A hands-on experimentation project for building, testing, and refining
 conversational guardrails with [NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) and [Ollama](https://ollama.com/)
-The project is intentionally small and self-contained. It provides repeatable
-experiments for common guardrail patterns without requiring a cloud API key:
 
 - topical boundaries for a task-focused assistant;
 - basic jailbreak detection and refusal flows;
 - fact-constrained answers from a small knowledge base; and
 - controlled execution of custom actions.
 
-
-> **Experiment, not a production safety system.** These examples demonstrate
-> rule-based guardrail techniques. Evaluate and harden them against the risks,
-> policies, models, and prompt patterns relevant to a real deployment.
 
 ## Stack
 
