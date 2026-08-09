@@ -1,0 +1,3 @@
+# NeMo Guardrails includes native support for Ollama's OpenAI-compatible API.
+# Installing the current release avoids the legacy OpenAI/NIM-only integration.
+nemoguardrails>=0.17.0
