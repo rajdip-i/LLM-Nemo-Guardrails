@@ -13,7 +13,6 @@ conversational guardrails with [NVIDIA NeMo Guardrails](https://github.com/NVIDI
 
 | Component | Purpose |
 | --- | --- |
-| Python 3.9–3.12 | Runtime for the examples |
 | NeMo Guardrails | Conversation orchestration and Colang rails |
 | Ollama | Local model server |
 | `llama3.2` | Default local LLM |
